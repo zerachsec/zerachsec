@@ -1,77 +1,86 @@
 # Hi, I'm Vishh 👋  
 aka **ZerΔch**
 
-🛡️ Smart Contract Security Engineer | Solidity Specialist  
-🎓 MCA Cybersecurity Student  
-✍️ Security Blogger | Competitive Researcher
+⚡ Web3 Developer  
+🦀 Rust • ⛓ Solidity • 🟦 TypeScript  
+Building across **EVM & Solana ecosystems**
 
 ---
 
 ## 👨‍💻 About Me
-I’m a **Solidity & Smart Contract Security Engineer** actively participating in:
-- 🧪 Security competitions  
-- 🐞 Bug bounties  
-- 🔍 Smart contract vulnerability research  
 
-I enjoy breaking systems to understand them better — and then writing about it so others don’t repeat the same mistakes.
+I'm a **Web3 developer** focused on building decentralized applications and smart contract systems across modern blockchain ecosystems.
 
----
+I enjoy designing and developing **smart contracts, on-chain programs, and full-stack Web3 applications** that interact seamlessly with decentralized networks.
 
-## 🔐 Security Focus
-- Smart contract auditing & threat modeling  
-- Vulnerability discovery & exploit analysis  
-- Protocol-level thinking (EVM, transaction flows, edge cases)  
+Currently building across:
 
-Currently expanding into:
-- 🧠 **Zero-Knowledge Proofs (ZK)**
-- ₿ **Bitcoin protocol fundamentals**
+- **Ethereum / EVM ecosystems**
+- **Solana programs with Rust**
+- **Full-stack Web3 applications with TypeScript**
+
+My goal is to become a well-rounded **blockchain engineer capable of building scalable decentralized infrastructure across multiple ecosystems.**
 
 ---
 
-## 🛠️ Languages & Tools
-**Strong**
-- 🟢 Solidity (EVM internals, gas, storage, security patterns)
+## ⚡ What I'm Working On
 
-**Comfortable**
-- 🟡 JavaScript
-- 🟡 TypeScript
+- Developing **EVM smart contracts with Solidity**
+- Writing **Solana programs using Rust**
+- Building **full-stack decentralized applications**
+- Integrating **smart contracts with modern web stacks**
+- Exploring **next-generation cryptographic systems**
 
-**Security Stack**
+---
+
+## 🛠 Tech Stack
+
+### Blockchain
+- Solidity
+- Rust
+- Ethereum / EVM
+- Solana
+
+### Web3 Development
+- TypeScript
+- Node.js
+- Ethers.js
+- Web3.js
+
+### Smart Contract Development
 - Foundry
 - Hardhat
-- Slither
-- Mythril
-- Manual auditing & PoC writing
+- Anchor (Solana development)
+
+### Development Tools
+- Git & GitHub
+- VS Code
+- Linux / CLI workflows
 
 ---
 
-## ✍️ Writing & Knowledge Sharing
-I regularly write **security-focused blogs** on Medium:
-- Smart contract vulnerabilities
-- Attack vectors & mitigations
-- Deep dives useful for **fellow security researchers**
+## 🚀 Current Focus
 
-📚 Goal: make complex security concepts **clear, practical, and reproducible**.
-
----
-
-## 🚀 Current Goals
-- Deepen expertise in **protocol & low-level blockchain security**
-- Transition Ethereum security knowledge into **Bitcoin research**
-- Contribute to open-source security tooling
-- Participate in Bitcoin & protocol-focused internships
+- Building **production-ready Web3 applications**
+- Expanding development across **EVM & Solana ecosystems**
+- Writing **efficient smart contracts and on-chain programs**
+- Developing **secure and scalable decentralized systems**
+- Exploring **advanced cryptographic infrastructure**
 
 ---
 
 ## 📌 Interests
-- Smart Contract Security
-- Zero-Knowledge Proofs
-- Blockchain Protocol Design
-- Open-Source Security Research
+
+- Web3 Infrastructure
+- Smart Contract Development
+- Solana & Rust Ecosystem
+- Decentralized Systems
+- Cryptographic Protocols
 
 ---
 
 ## 📫 Connect
-- GitHub: https://github.com/zerachsec
-- Medium: https://medium.com/@zerach.sec
+
+- GitHub: https://github.com/zerachsec  
 - X (Twitter): https://x.com/zer4ch
+- Medium: https://medium.com/@zerach.sec
