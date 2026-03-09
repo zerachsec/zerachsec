@@ -17,7 +17,7 @@ Currently building across:
 
 - **Ethereum / EVM ecosystems**
 - **Solana programs with Rust**
-- **Full-stack Web3 applications with TypeScript**
+- **Full-stack Web3 applications with modern Web3 tooling**
 
 My goal is to become a well-rounded **blockchain engineer capable of building scalable decentralized infrastructure across multiple ecosystems.**
 
@@ -28,7 +28,7 @@ My goal is to become a well-rounded **blockchain engineer capable of building sc
 - Developing **EVM smart contracts with Solidity**
 - Writing **Solana programs using Rust**
 - Building **full-stack decentralized applications**
-- Integrating **smart contracts with modern web stacks**
+- Integrating **smart contracts with modern Web3 frontends**
 - Exploring **next-generation cryptographic systems**
 
 ---
@@ -44,8 +44,8 @@ My goal is to become a well-rounded **blockchain engineer capable of building sc
 ### Web3 Development
 - TypeScript
 - Node.js
-- Ethers.js
-- Web3.js
+- viem
+- wagmi
 
 ### Smart Contract Development
 - Foundry
@@ -71,11 +71,11 @@ My goal is to become a well-rounded **blockchain engineer capable of building sc
 
 ## 📌 Interests
 
-- Web3 Infrastructure
-- Smart Contract Development
-- Solana & Rust Ecosystem
-- Decentralized Systems
-- Cryptographic Protocols
+- Web3 Infrastructure  
+- Smart Contract Development  
+- Solana & Rust Ecosystem  
+- Decentralized Systems  
+- Cryptographic Protocols  
 
 ---
 
