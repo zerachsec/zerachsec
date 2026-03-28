@@ -1,86 +1,83 @@
-# Hi, I'm Vishh 👋  
-aka **ZerΔch**
+# Vishh ⚔️
 
-⚡ Web3 Developer  
-🦀 Rust • ⛓ Solidity • 🟦 TypeScript  
-Building across **EVM & Solana ecosystems**
+**ZerΔch**
 
----
-
-## 👨‍💻 About Me
-
-I'm a **Web3 developer** focused on building decentralized applications and smart contract systems across modern blockchain ecosystems.
-
-I enjoy designing and developing **smart contracts, on-chain programs, and full-stack Web3 applications** that interact seamlessly with decentralized networks.
-
-Currently building across:
-
-- **Ethereum / EVM ecosystems**
-- **Solana programs with Rust**
-- **Full-stack Web3 applications with modern Web3 tooling**
-
-My goal is to become a well-rounded **blockchain engineer capable of building scalable decentralized infrastructure across multiple ecosystems.**
+🛡️ Smart Contract Security Researcher • ⛓️ EVM • 🔐 Future ZK Engineer
 
 ---
 
-## ⚡ What I'm Working On
+## 🧠 About
 
-- Developing **EVM smart contracts with Solidity**
-- Writing **Solana programs using Rust**
-- Building **full-stack decentralized applications**
-- Integrating **smart contracts with modern Web3 frontends**
-- Exploring **next-generation cryptographic systems**
+I focus on **smart contract security** — analyzing, breaking, and strengthening EVM-based systems.
 
----
+My work centers on:
 
-## 🛠 Tech Stack
+* 🔍 discovering vulnerabilities in real-world protocols
+* 💣 writing **exploit PoCs**
+* 🧪 validating systems using **fuzzing and invariant testing**
 
-### Blockchain
-- Solidity
-- Rust
-- Ethereum / EVM
-- Solana
-
-### Web3 Development
-- TypeScript
-- Node.js
-- viem
-- wagmi
-
-### Smart Contract Development
-- Foundry
-- Hardhat
-- Anchor (Solana development)
-
-### Development Tools
-- Git & GitHub
-- VS Code
-- Linux / CLI workflows
+Building towards becoming a **high-level security researcher**, with a long-term path into **zero-knowledge systems (ZK)**.
 
 ---
 
-## 🚀 Current Focus
+## ⚔️ Core Focus
 
-- Building **production-ready Web3 applications**
-- Expanding development across **EVM & Solana ecosystems**
-- Writing **efficient smart contracts and on-chain programs**
-- Developing **secure and scalable decentralized systems**
-- Exploring **advanced cryptographic infrastructure**
+• 🔍 Smart Contract Auditing (Solidity)
+• 🧪 Fuzzing & Invariant Testing (Foundry)
+• 💣 Exploit Development & PoCs
+• 🧬 EVM Internals (memory, storage, gas)
+• 🏦 DeFi Protocol Security
 
 ---
 
-## 📌 Interests
+## 🛠️ Technical Stack
 
-- Web3 Infrastructure  
-- Smart Contract Development  
-- Solana & Rust Ecosystem  
-- Decentralized Systems  
-- Cryptographic Protocols  
+**🛡️ Security**
+
+* Solidity
+* Foundry (Forge, Fuzzing, Invariants)
+* OpenZeppelin
+
+**⚙️ Low-Level (Learning)**
+
+* Rust 🦀
+* Yul / Huff
+
+**🧰 Tools**
+
+* Git & GitHub
+* Linux / CLI
+
+---
+
+## 🔥 Current Work
+
+* 🧠 Practicing vulnerabilities through CTFs & DeFi exploit replication
+* 📂 Building a **public portfolio of exploits, tests, and audit notes**
+* ⚡ Studying low-level execution patterns in the EVM
+
+---
+
+## 🚧 Work In Progress
+
+* 🧪 Foundry Fuzzing Suite
+* 💣 DeFi Exploit PoCs
+* 📘 Audit Notes & Findings
+
+---
+
+## 🎯 Direction
+
+🛡️ Security → 🐞 Real-world bugs → 🔐 ZK systems
 
 ---
 
 ## 📫 Connect
 
-- GitHub: https://github.com/zerachsec  
-- X (Twitter): https://x.com/zer4ch
-- Medium: https://medium.com/@zerach.sec
+* 🐙 GitHub  → [https://github.com/zerachsec](https://github.com/zerachsec)
+* 🐦 X       → [https://x.com/zer4ch](https://x.com/zer4ch)
+* ✍️ Medium  → [https://medium.com/@zerach.sec](https://medium.com/@zerach.sec)
+
+---
+
+> ⚡ Break systems. Understand deeply. Build securely.
