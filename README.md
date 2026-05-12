@@ -36,13 +36,13 @@
 
 ## About
 
-**Vishh** — Zero Knowledge Engineer and smart contract specialist.[cite: 1]
+**Vishh** — Zero Knowledge Engineer and smart contract specialist.
 
-I came from the security side — writing, testing, and breaking EVM systems with Foundry at a depth most developers never reach.[cite: 1] I took that mindset into ZK cryptography: studying proof systems mathematically, building circuits from first principles, reasoning about soundness at every layer.[cite: 1]
+I came from the security side — writing, testing, and breaking EVM systems with Foundry at a depth most developers never reach. I took that mindset into ZK cryptography: studying proof systems mathematically, building circuits from first principles, reasoning about soundness at every layer.
 
-I study 10 hours a day.[cite: 1] I document everything publicly.[cite: 1] I am hungry in a way that does not switch off.[cite: 1]
+I study 10 hours a day. I document everything publicly. I am hungry in a way that does not switch off.
 
-> *Not the smartest. Just the one who won't stop.*[cite: 1]
+> *Not the smartest. Just the one who won't stop.*
 
 <br clear="both"/>
 ---
@@ -246,18 +246,19 @@ I write about ZK mathematics, proof systems, circuit design, and EVM security. N
 
 ---
 
-
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zerachsec&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c77dff&icon_color=ff2d9b&text_color=ffffff" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerachsec&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c77dff&text_color=ffffff" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zerachsec&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c77dff&icon_color=ff2d9b&text_color=ffffff" alt="Stats Card" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zerachsec&theme=dark&hide_border=true&background=0D0D0D&stroke=9d4edd&ring=c77dff&fire=ff2d9b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c77dff&sideLabels=9d4edd&dates=888888" width="600" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerachsec&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c77dff&text_color=ffffff" alt="Top Langs" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zerachsec&theme=dark&hide_border=true&background=0D0D0D&stroke=9d4edd&ring=c77dff&fire=ff2d9b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c77dff&sideLabels=9d4edd&dates=888888" alt="Streak Stats" />
+</p>
 
 ---
 
