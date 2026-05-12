@@ -30,20 +30,21 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zerachsec&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c77dff&icon_color=ff2d9b&text_color=ffffff" width="430"/>
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=zerachsec&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c77dff&icon_color=ff2d9b&text_color=ffffff" width="400" alt="GitHub Stats"/>
+</p>
 
 ## About
 
-**Vishh** — Zero Knowledge Engineer and smart contract specialist.
+**Vishh** — Zero Knowledge Engineer and smart contract specialist.[cite: 1]
 
-I came from the security side — writing, testing, and breaking EVM systems with Foundry at a depth most developers never reach. I took that mindset into ZK cryptography: studying proof systems mathematically, building circuits from first principles, reasoning about soundness at every layer.
+I came from the security side — writing, testing, and breaking EVM systems with Foundry at a depth most developers never reach.[cite: 1] I took that mindset into ZK cryptography: studying proof systems mathematically, building circuits from first principles, reasoning about soundness at every layer.[cite: 1]
 
-I study 10 hours a day. I document everything publicly. I am hungry in a way that does not switch off.
+I study 10 hours a day.[cite: 1] I document everything publicly.[cite: 1] I am hungry in a way that does not switch off.[cite: 1]
 
-> *Not the smartest. Just the one who won't stop.*
+> *Not the smartest. Just the one who won't stop.*[cite: 1]
 
-<br clear="right"/>
-
+<br clear="both"/>
 ---
 
 ## Current Focus
