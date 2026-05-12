@@ -246,19 +246,18 @@ I write about ZK mathematics, proof systems, circuit design, and EVM security. N
 
 ---
 
+
 ## GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zerachsec&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c77dff&icon_color=ff2d9b&text_color=ffffff" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerachsec&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c77dff&text_color=ffffff" width="300" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=zerachsec&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c77dff&icon_color=ff2d9b&text_color=ffffff" width="420"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerachsec&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c77dff&text_color=ffffff" width="320"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zerachsec&theme=dark&hide_border=true&background=0D0D0D&stroke=9d4edd&ring=c77dff&fire=ff2d9b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c77dff&sideLabels=9d4edd&dates=888888" width="600" />
+</p>
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zerachsec&theme=dark&hide_border=true&background=0D0D0D&stroke=9d4edd&ring=c77dff&fire=ff2d9b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c77dff&sideLabels=9d4edd&dates=888888" width="600"/>
-
-</div>
 
 ---
 
