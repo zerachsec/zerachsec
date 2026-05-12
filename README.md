@@ -30,9 +30,7 @@
 
 ---
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=zerachsec&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c77dff&icon_color=ff2d9b&text_color=ffffff" width="400" alt="GitHub Stats"/>
-</p>
+<img align="right" src="https://github-readme-stats.vercel.app/api username=zerachsec&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c77dff&icon_color=ff2d9b&text_color=ffffff" width="430"/>
 
 ## About
 
@@ -44,7 +42,8 @@ I study 10 hours a day. I document everything publicly. I am hungry in a way tha
 
 > *Not the smartest. Just the one who won't stop.*
 
-<br clear="both"/>
+<br clear="right"/>
+
 ---
 
 ## Current Focus
@@ -248,17 +247,17 @@ I write about ZK mathematics, proof systems, circuit design, and EVM security. N
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zerachsec&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c77dff&icon_color=ff2d9b&text_color=ffffff" alt="Stats Card" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerachsec&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c77dff&text_color=ffffff" alt="Top Langs" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=zerachsec&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c77dff&icon_color=ff2d9b&text_color=ffffff" width="420"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerachsec&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c77dff&text_color=ffffff" width="320"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zerachsec&theme=dark&hide_border=true&background=0D0D0D&stroke=9d4edd&ring=c77dff&fire=ff2d9b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c77dff&sideLabels=9d4edd&dates=888888" alt="Streak Stats" />
-</p>
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=zerachsec&theme=dark&hide_border=true&background=0D0D0D&stroke=9d4edd&ring=c77dff&fire=ff2d9b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c77dff&sideLabels=9d4edd&dates=888888" width="600"/>
+
+</div>
 
 ---
 
