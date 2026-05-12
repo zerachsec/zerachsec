@@ -30,7 +30,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api username=zerachsec&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c77dff&icon_color=ff2d9b&text_color=ffffff" width="430"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zerachsec&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c77dff&icon_color=ff2d9b&text_color=ffffff" width="430"/>
 
 ## About
 
@@ -249,9 +249,9 @@ I write about ZK mathematics, proof systems, circuit design, and EVM security. N
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zerachsec&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c77dff&icon_color=ff2d9b&text_color=ffffff" width="420" alt="Stats Card"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zerachsec&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c77dff&icon_color=ff2d9b&text_color=ffffff" width="420"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerachsec&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c77dff&text_color=ffffff" width="320" alt="Top Langs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerachsec&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c77dff&text_color=ffffff" width="320"/>
 
 <br/><br/>
 
