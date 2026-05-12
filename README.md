@@ -42,6 +42,8 @@ I study 10 hours a day. I document everything publicly. I am hungry in a way tha
 
 > *Not the smartest. Just the one who won't stop.*
 
+<br clear="right"/>
+
 ---
 
 ## Current Focus
