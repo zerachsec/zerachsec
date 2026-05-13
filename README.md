@@ -198,6 +198,22 @@ I study 10 hours a day. I document everything publicly. I am hungry in a way tha
 <a href="https://zk-learning.org">zk-learning.org</a> — Dan Boneh and Shafi Goldwasser
 </td>
 </tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/06-Programming%20Bitcoin-ff2d9b?style=flat-square&labelColor=2d0033"/>
+</td>
+<td>
+<a href="https://programmingbitcoin.com">Jimmy Song</a> — elliptic curves, finite fields, Bitcoin from scratch
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/07-Automate%20Boring%20Stuff-9d4edd?style=flat-square&labelColor=1a0533"/>
+</td>
+<td>
+<a href="https://automatetheboringstuff.com">Al Sweigart</a> — practical Python automation — free online
+</td>
+</tr>
 </table>
 
 </div>
