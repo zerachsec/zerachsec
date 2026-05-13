@@ -261,13 +261,17 @@ I write about ZK mathematics, proof systems, circuit design, and EVM security. N
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zerachsec&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c77dff&icon_color=ff2d9b&text_color=ffffff" width="420"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerachsec&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c77dff&text_color=ffffff" width="320"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zerachsec&theme=dracula" width="740"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zerachsec&theme=dark&hide_border=true&background=0D0D0D&stroke=9d4edd&ring=c77dff&fire=ff2d9b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c77dff&sideLabels=9d4edd&dates=888888" width="600"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zerachsec&theme=dracula" width="360"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zerachsec&theme=dracula" width="360"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=zerachsec&theme=dark&hide_border=true&background=0D0D0D&stroke=9d4edd&ring=c77dff&fire=ff2d9b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c77dff&sideLabels=9d4edd&dates=888888" width="600"/>
 
 </div>
 
