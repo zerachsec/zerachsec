@@ -34,12 +34,40 @@
 
 **Vishh** — Zero Knowledge Engineer & Cryptography Researcher.
 
+---
+
 Dedicated to the research and engineering of zero knowledge proof systems — from foundational cryptographic mathematics to the design and deployment of production-grade ZK circuits and protocols. The work here sits at the intersection of pure mathematics, cryptographic theory, and low-level systems engineering.
 
-The approach is deliberate: every system is understood at the mathematical proof level before it is implemented at the code level. No black boxes. No abstraction without comprehension
+The approach is deliberate: every system is understood at the mathematical proof level before it is implemented at the code level. No black boxes. No abstraction without comprehension.
+
+---
+
+## Core Technical Domains
+
+### Zero Knowledge Proof Systems
+Research and implementation across the full ZK stack — zkSNARKs, zkSTARKs, PLONK, Groth16, and FFlonk. Deep focus on proof construction, verification circuits, and the tradeoffs between proof size, prover time, and verifier efficiency.
+
+### Cryptographic Circuit Design
+Building arithmetic circuits from first principles using Circom and Noir. Emphasis on constraint system design, signal flow, and soundness analysis at every layer of the circuit.
+
+### Elliptic Curve Cryptography
+Working knowledge of secp256k1, BN254, and BLS12-381 curves — including point arithmetic, scalar multiplication, pairing-based cryptography, and their role in modern ZK constructions.
+
+### Finite Field Arithmetic & Polynomial Schemes
+Study and implementation of finite field operations, Lagrange interpolation, Kate commitments, and the algebraic foundations that underpin every major proof system in production today.
+
+### Bitcoin Protocol Engineering
+Low-level Bitcoin protocol implementation — transaction construction, script, ECDSA signing, and the cryptographic primitives that secure the network at its base layer.
+
+### EVM Security & Smart Contract Research
+Deep familiarity with EVM internals, opcode-level execution, and smart contract vulnerability research using Foundry. Security is treated as an engineering discipline, not an afterthought.
+
+---
+
 
 > *Not the smartest engineer in the room.*
 > *Just the one who understands it deeper, documents it better, and refuses to stop.*
+
 
 ---
 
