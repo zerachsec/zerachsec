@@ -32,13 +32,14 @@
 
 ## About
 
-**Vishh** — Zero Knowledge Engineer and smart contract specialist.
+**Vishh** — Zero Knowledge Engineer & Cryptography Researcher.
 
-I came from the security side — writing, testing, and breaking EVM systems with Foundry at a depth most developers never reach. I took that mindset into ZK cryptography: studying proof systems mathematically, building circuits from first principles, reasoning about soundness at every layer.
+Dedicated to the research and engineering of zero knowledge proof systems — from foundational cryptographic mathematics to the design and deployment of production-grade ZK circuits and protocols. The work here sits at the intersection of pure mathematics, cryptographic theory, and low-level systems engineering.
 
-I study 10 hours a day. I document everything publicly. I am hungry in a way that does not switch off.
+The approach is deliberate: every system is understood at the mathematical proof level before it is implemented at the code level. No black boxes. No abstraction without comprehension
 
-> *Not the smartest. Just the one who won't stop.*
+> *Not the smartest engineer in the room.*
+> *Just the one who understands it deeper, documents it better, and refuses to stop.*
 
 ---
 
