@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0500,50:331100,100:663300&height=220&section=header&text=Zer4ch&fontSize=80&fontColor=ffb000&animation=fadeIn&fontAlignY=38&desc=I%20Don't%20Find%20Bugs.%20I%20Find%20What%20You%20Missed.&descAlignY=56&descSize=20&descColor=ff2400" width="100%"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=34&duration=3000&pause=900&color=FFB000&background=00000000&center=true&vCenter=true&width=800&height=60&lines=Zer%CE%94ch;Web+Application+Penetration+Tester;Bug+Bounty+Hunter;HTB+%7C+OSCP+%7C+OSWA+%7C+OSWE+%7C+BSCP" alt="ZerΔch"/>
+
+<br/>
 
 <a href="https://www.linkedin.com/in/zerach/">
 <img src="https://img.shields.io/badge/LinkedIn-zerach-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -42,7 +46,7 @@
 
 ## About
 
-**Zer4ch** — Web Application Penetration Tester & Bug Bounty Hunter.
+**ZerΔch** — Web Application Penetration Tester & Bug Bounty Hunter.
 
 ---
 
@@ -300,8 +304,6 @@ I write up hunting methodology, vulnerability deep-dives, and lessons from discl
 - **Bug bounty collaboration** — duo hunting, scope swaps, write-up review
 - **Mentorship from experienced hunters** — always learning, always asking
 
-> *Disciplined in the lab. Relentless in scope.*
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/zerach/">
@@ -318,6 +320,7 @@ I write up hunting methodology, vulnerability deep-dives, and lessons from discl
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:663300,50:331100,100:0a0500&height=160&section=footer&text=Every%20app%20has%20a%20flaw.%20I%20find%20it%20first.&fontSize=22&fontColor=ffb000&animation=fadeIn&fontAlignY=65" width="100%"/>
+*Disciplined in the lab. Relentless in scope.*
+**Every app has a flaw. I find it first.**
 
 </div>
