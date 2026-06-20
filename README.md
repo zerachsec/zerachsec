@@ -1,30 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:2d0052&height=220&section=header&text=ZerΔch&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Prove%20Everything.%20Reveal%20Nothing.&descAlignY=56&descSize=22&descColor=cc44ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:002b00,100:003b00&height=220&section=header&text=Zer4ch&fontSize=80&fontColor=39ff14&animation=fadeIn&fontAlignY=38&desc=Break%20Everything.%20Report%20Responsibly.&descAlignY=56&descSize=22&descColor=ff003c" width="100%"/>
 
 <a href="https://x.com/zer4ch">
 <img src="https://img.shields.io/badge/𝕏%20@zer4ch-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://medium.com/@zerach.sec">
-<img src="https://img.shields.io/badge/Medium-Writing-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Medium-Writeups-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/zerachsec">
 <img src="https://img.shields.io/badge/GitHub-zerachsec-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=zerachsec&color=9d4edd&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=zerachsec&color=39ff14&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/ZERO%20KNOWLEDGE-ENGINEER-9d4edd?style=flat-square&labelColor=1a0533&color=9d4edd"/>
+<img src="https://img.shields.io/badge/WEB%20APP-PENTESTER-39ff14?style=flat-square&labelColor=0d0d0d&color=39ff14"/>
 &nbsp;
-<img src="https://img.shields.io/badge/EVM-SPECIALIST-ff2d9b?style=flat-square&labelColor=2d0033&color=ff2d9b"/>
+<img src="https://img.shields.io/badge/BUG%20BOUNTY-HUNTER-ff003c?style=flat-square&labelColor=1a0000&color=ff003c"/>
 &nbsp;
-<img src="https://img.shields.io/badge/CIRCOM-NOIR-c77dff?style=flat-square&labelColor=1a0533&color=c77dff"/>
+<img src="https://img.shields.io/badge/HACK%20THE%20BOX-ACTIVE-9efe00?style=flat-square&labelColor=0d0d0d&color=9efe00"/>
 &nbsp;
-<img src="https://img.shields.io/badge/BUILD-IN%20PUBLIC-ff2d9b?style=flat-square&labelColor=2d0033&color=ff2d9b"/>
+<img src="https://img.shields.io/badge/BUILD-IN%20PUBLIC-39ff14?style=flat-square&labelColor=0d0d0d&color=39ff14"/>
 
 </div>
 
@@ -32,49 +32,41 @@
 
 ## About
 
-**Vishh** — Zero Knowledge Engineer & Cryptography Researcher.
+**Zer4ch** — Web Application Penetration Tester & Bug Bounty Hunter.
 
 ---
 
-Dedicated to the research and engineering of zero knowledge proof systems — from foundational cryptographic mathematics to the design and deployment of production-grade ZK circuits and protocols. The work here sits at the intersection of pure mathematics, cryptographic theory, and low-level systems engineering.
+Focused entirely on offensive web security — finding real vulnerabilities in real targets, not chasing theory for its own sake. Every vulnerability class is studied, drilled in the lab, validated against real-world disclosed reports, then hunted live. No shortcuts, no copy-paste payloads without understanding *why* they work.
 
-The approach is deliberate: every system is understood at the mathematical proof level before it is implemented at the code level. No black boxes. No abstraction without comprehension.
-
----
-
-## Core Technical Domains
-
-### Zero Knowledge Proof Systems
-Research and implementation across the full ZK stack — zkSNARKs, zkSTARKs, PLONK, Groth16, and FFlonk. Deep focus on proof construction, verification circuits, and the tradeoffs between proof size, prover time, and verifier efficiency.
-
-### Cryptographic Circuit Design
-Building arithmetic circuits from first principles using Circom and Noir. Emphasis on constraint system design, signal flow, and soundness analysis at every layer of the circuit.
-
-### Elliptic Curve Cryptography
-Working knowledge of secp256k1, BN254, and BLS12-381 curves — including point arithmetic, scalar multiplication, pairing-based cryptography, and their role in modern ZK constructions.
-
-### Finite Field Arithmetic & Polynomial Schemes
-Study and implementation of finite field operations, Lagrange interpolation, Kate commitments, and the algebraic foundations that underpin every major proof system in production today.
-
-### Bitcoin Protocol Engineering
-Low-level Bitcoin protocol implementation — transaction construction, script, ECDSA signing, and the cryptographic primitives that secure the network at its base layer.
-
-### EVM Security & Smart Contract Research
-Deep familiarity with EVM internals, opcode-level execution, and smart contract vulnerability research using Foundry. Security is treated as an engineering discipline, not an afterthought.
+The approach is methodical: **Learn → Lab → Read → Hunt.** Study a vulnerability class, complete the relevant PortSwigger labs, read disclosed reports to see how it plays out in production, then spend focused time hunting it on a live target before rotating to the next class.
 
 ---
 
+## Core Focus
 
-> *Not the smartest engineer in the room.*
-> *Just the one who understands it deeper, documents it better, and refuses to stop.*
+### Web Application Penetration Testing
+Manual and tool-assisted assessment of web applications — authentication, session management, access control, input handling, and business logic — beyond what automated scanners surface.
 
+### Bug Bounty Hunting
+Actively hunting across **Intigriti**, **Bugcrowd**, and **YesWeHack**. Platform-agnostic, target-driven — go where the scope and the payout justify the time.
+
+### Offensive Security Certification Track
+Working through Hack The Box labs toward a structured cert roadmap: **OSCP (PEN-200)** → **OSWA (WEB-200)** → **OSWE (WEB-300)**, with the long-term goal of joining the **Synack Red Team (SRT)** and freelancing as an independent web/penetration tester.
+
+### Reconnaissance & Automation
+Building a fast, repeatable recon pipeline — subdomain enumeration, live host probing, URL discovery, and automated vuln scanning — so manual testing time goes toward actual exploitation, not grunt work.
+
+---
+
+> *Not the loudest hunter in the program.*
+> *Just the one who reads the source, tests the edge case, and doesn't stop at the first "no vuln here."*
 
 ---
 
 ## Current Focus
 
 <div align="center">
-<img src="https://img.shields.io/badge/100%25%20of%20my%20time-No%20Detours-9d4edd?style=for-the-badge&labelColor=1a0533"/>
+<img src="https://img.shields.io/badge/100%25%20of%20my%20time-No%20Detours-39ff14?style=for-the-badge&labelColor=0d0d0d"/>
 </div>
 
 <br/>
@@ -83,30 +75,27 @@ Deep familiarity with EVM internals, opcode-level execution, and smart contract 
 <tr>
 <td width="50%" valign="top">
 
-**🔢 ZK Mathematics**
-- Finite fields and modular arithmetic
-- Elliptic curves over finite fields
-- Polynomial arithmetic and Lagrange interpolation
-- Bilinear pairings
-
-**⚙️ Proof Systems**
-- Groth16 — from R1CS to trusted setup
-- PLONK — permutation arguments, custom gates
-- STARKs — FRI protocol, AIR arithmetization
-- Bulletproofs and NTT
+**🎯 Vulnerability Priority Track**
+1. SQL Injection
+2. Authentication Flaws
+3. IDOR / Broken Access Control
+4. Cross-Site Scripting (XSS)
+5. SSRF
+6. File Upload Vulnerabilities
+7. Business Logic Flaws
+8. XXE
+9. CSRF
+10. Directory Traversal / Open Redirect / HTTP Parameter Pollution
 
 </td>
 <td width="50%" valign="top">
 
-**🔧 ZK Circuits**
-- Circom — constraint systems, SnarkJS
-- Noir — Barretenberg backend
-- On-chain verifier deployment with Foundry
-
-**🛡️ ZK Security**
-- Soundness bug analysis
-- Under-constrained circuit detection
-- Verifier contract auditing
+**🔁 Learn → Lab → Read → Hunt Loop**
+- Study the vulnerability class in depth
+- Complete PortSwigger labs (Apprentice → Practitioner)
+- Read disclosed reports via Hacktivity
+- Hunt the class on a live target for 3 focused days
+- Rotate to the next class on the track
 
 </td>
 </tr>
@@ -114,136 +103,135 @@ Deep familiarity with EVM internals, opcode-level execution, and smart contract 
 
 ---
 
-## Stack
+## Certification Roadmap
 
-**Zero Knowledge**
+<div align="center">
 
-<div align="left">
-
-<img src="https://img.shields.io/badge/Circom-1a0533?style=for-the-badge&logo=circle&logoColor=c77dff"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Noir-1a0533?style=for-the-badge&logo=circle&logoColor=ff2d9b"/>
-&nbsp;
-<img src="https://img.shields.io/badge/SnarkJS-2d0052?style=for-the-badge&logo=javascript&logoColor=c77dff"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Barretenberg-2d0052?style=for-the-badge&logo=buffer&logoColor=ff2d9b"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Groth16-1a0533?style=for-the-badge&logo=keycdn&logoColor=c77dff"/>
-&nbsp;
-<img src="https://img.shields.io/badge/PLONK-1a0533?style=for-the-badge&logo=keycdn&logoColor=ff2d9b"/>
-
-</div>
-
-<br/>
-
-**Cryptography**
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/Elliptic%20Curves-2d0052?style=for-the-badge&logo=letsencrypt&logoColor=c77dff"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Finite%20Fields-1a0533?style=for-the-badge&logo=wolfram&logoColor=ff2d9b"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Polynomial%20Arithmetic-2d0052?style=for-the-badge&logo=mathworks&logoColor=c77dff"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Pairings-1a0533?style=for-the-badge&logo=keybase&logoColor=ff2d9b"/>
-
-</div>
-
-<br/>
-
-**Languages and Tools**
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=solidity,python,js,rust,git,linux,vscode,github&theme=dark"/>
-
-</div>
-
-<br/>
-
-**EVM and Security**
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=ff2d9b"/>
-&nbsp;
-<img src="https://img.shields.io/badge/EVM%20Internals-1a1a2e?style=for-the-badge&logo=ethereum&logoColor=c77dff"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Slither-2d0052?style=for-the-badge&logo=serpent&logoColor=c77dff"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Echidna-1a0533?style=for-the-badge&logo=snyk&logoColor=ff2d9b"/>
-&nbsp;
-<img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white"/>
+| # | Certification | Focus | Status |
+|---|---|---|---|
+| 01 | Hack The Box Labs | Practical exploitation reps | 🟢 In Progress |
+| 02 | **OSCP** (PEN-200) | General penetration testing | ⚪ Upcoming |
+| 03 | **OSWA** (WEB-200) | Web application attacks | ⚪ Upcoming |
+| 04 | **OSWE** (WEB-300) | Advanced web exploitation | ⚪ Upcoming |
+| 05 | **Synack Red Team (SRT)** | Vetted private bounty program | ⚪ Target |
+| 06 | Independent Freelance Pentester | Web pentesting + bug bounty as income | ⚪ Target |
 
 </div>
 
 ---
 
-## Currently Reading
+## Stack
+
+**Recon & Enumeration**
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Subfinder-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=39ff14"/>
+&nbsp;
+<img src="https://img.shields.io/badge/httpx-0d0d0d?style=for-the-badge&logo=curl&logoColor=ff003c"/>
+&nbsp;
+<img src="https://img.shields.io/badge/gau-0d0d0d?style=for-the-badge&logo=internetarchive&logoColor=39ff14"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Nuclei-0d0d0d?style=for-the-badge&logo=projectile&logoColor=ff003c"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ffuf-0d0d0d?style=for-the-badge&logo=fastify&logoColor=39ff14"/>
+
+</div>
+
+<br/>
+
+**Exploitation & Testing**
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/OWASP%20ZAP-1a0533?style=for-the-badge&logo=owasp&logoColor=39ff14"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SQLMap-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=ff003c"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+</div>
+
+<br/>
+
+**Languages, Tools & Environment**
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,python,js,git,github,vscode&theme=dark"/>
+
+</div>
+
+---
+
+## Learning Resources
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/01-RareSkills%20ZK%20Book-9d4edd?style=flat-square&labelColor=1a0533"/>
+<img src="https://img.shields.io/badge/01-PortSwigger%20Academy-39ff14?style=flat-square&labelColor=0d0d0d"/>
 </td>
 <td>
-<a href="https://rareskills.io/zk-book">rareskills.io/zk-book</a> — the definitive ZK engineering resource
+<a href="https://portswigger.net/web-security">portswigger.net/web-security</a> — Apprentice → Practitioner labs, vuln-class by vuln-class
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/02-Proofs%20Args%20%26%20ZK-ff2d9b?style=flat-square&labelColor=2d0033"/>
+<img src="https://img.shields.io/badge/02-Intigriti%20Hackademy-ff003c?style=flat-square&labelColor=1a0000"/>
 </td>
 <td>
-<a href="https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf">Justin Thaler</a> — the complete ZK textbook
+<a href="https://hackademy.intigriti.com">hackademy.intigriti.com</a> — bug bounty fundamentals and methodology
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/03-zk--SNARK%20Works-9d4edd?style=flat-square&labelColor=1a0533"/>
+<img src="https://img.shields.io/badge/03-HackerOne%20Hacktivity-39ff14?style=flat-square&labelColor=0d0d0d"/>
 </td>
 <td>
-<a href="https://arxiv.org/abs/1906.07221">Maksym Petkus</a> — why and how zk-SNARKs work
+<a href="https://hackerone.com/hacktivity">hackerone.com/hacktivity</a> — disclosed reports, real-world patterns per vuln class
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/04-Moon%20Math%20Manual-ff2d9b?style=flat-square&labelColor=2d0033"/>
+<img src="https://img.shields.io/badge/04-Hack%20The%20Box-ff003c?style=flat-square&labelColor=1a0000"/>
 </td>
 <td>
-<a href="https://leastauthority.com/community-matters/moonmath-manual/">Least Authority</a> — ZK mathematics from scratch
+<a href="https://hackthebox.com">hackthebox.com</a> — practical exploitation reps toward OSCP/OSWA/OSWE
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/05-ZK%20MOOC%20Berkeley-9d4edd?style=flat-square&labelColor=1a0533"/>
+<img src="https://img.shields.io/badge/05-OffSec-39ff14?style=flat-square&labelColor=0d0d0d"/>
 </td>
 <td>
-<a href="https://zk-learning.org">zk-learning.org</a> — Dan Boneh and Shafi Goldwasser
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/06-Programming%20Bitcoin-ff2d9b?style=flat-square&labelColor=2d0033"/>
-</td>
-<td>
-<a href="https://programmingbitcoin.com">Jimmy Song</a> — elliptic curves, finite fields, Bitcoin from scratch
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/07-Automate%20Boring%20Stuff-9d4edd?style=flat-square&labelColor=1a0533"/>
-</td>
-<td>
-<a href="https://automatetheboringstuff.com">Al Sweigart</a> — practical Python automation — free online
+<a href="https://www.offsec.com">offsec.com</a> — PEN-200, WEB-200, WEB-300 course material
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+## Bug Bounty Platforms
+
+<div align="center">
+
+<a href="https://intigriti.com">
+<img src="https://img.shields.io/badge/Intigriti-Active-39ff14?style=for-the-badge&labelColor=0d0d0d"/>
+</a>
+&nbsp;
+<a href="https://bugcrowd.com">
+<img src="https://img.shields.io/badge/Bugcrowd-Active-ff003c?style=for-the-badge&labelColor=1a0000"/>
+</a>
+&nbsp;
+<a href="https://yeswehack.com">
+<img src="https://img.shields.io/badge/YesWeHack-Active-39ff14?style=for-the-badge&labelColor=0d0d0d"/>
+</a>
 
 </div>
 
@@ -251,9 +239,9 @@ Deep familiarity with EVM internals, opcode-level execution, and smart contract 
 
 ## Writing
 
-> *Where mathematics meets trust — that's where I live.*
+> *Real vulnerabilities, real methodology — not another "top 10 XSS payloads" listicle.*
 
-I write about ZK mathematics, proof systems, circuit design, and EVM security. Not tutorials. Not summaries. Real technical thinking from someone going through it.
+I write up hunting methodology, vulnerability deep-dives, and lessons from disclosed reports. Process over payloads.
 
 <div align="center">
 
@@ -262,25 +250,8 @@ I write about ZK mathematics, proof systems, circuit design, and EVM security. N
 </a>
 &nbsp;
 <a href="https://x.com/zer4ch">
-<img src="https://img.shields.io/badge/Weekly%20ZK%20Threads-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bounty%20Threads-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-## Milestones
-
-<div align="center">
-
-| # | Milestone | Status |
-|---|---|---|
-| 01 | ZK Mathematics — finite fields, elliptic curves, polynomials | 🟣 In Progress |
-| 02 | Proof Systems — Groth16, PLONK, STARKs from first principles | ⚪ Upcoming |
-| 03 | Circom circuits written and deployed on-chain | ⚪ Upcoming |
-| 04 | Noir — full ZK application live on testnet | ⚪ Upcoming |
-| 05 | ZK security research — bug bounties, Immunefi, open source PRs | ⚪ Upcoming |
-| 06 | ZK Engineer — first role | ⚪ Target |
 
 </div>
 
@@ -300,7 +271,7 @@ I write about ZK mathematics, proof systems, circuit design, and EVM security. N
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=zerachsec&theme=dark&hide_border=true&background=0D0D0D&stroke=9d4edd&ring=c77dff&fire=ff2d9b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c77dff&sideLabels=9d4edd&dates=888888" width="600"/>
+<img src="https://streak-stats.demolab.com?user=zerachsec&theme=dark&hide_border=true&background=0D0D0D&stroke=39ff14&ring=ff003c&fire=39ff14&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff003c&sideLabels=39ff14&dates=888888" width="600"/>
 
 </div>
 
@@ -308,11 +279,11 @@ I write about ZK mathematics, proof systems, circuit design, and EVM security. N
 
 ## Open To
 
-- **ZK engineering roles** — internships, junior and research positions
-- **Technical collaboration** — ZK circuits, proof systems, EVM security
-- **Serious builders and researchers** — if you are building something real, reach out
+- **Freelance web penetration testing** — assessments, retests, scoped engagements
+- **Bug bounty collaboration** — duo hunting, scope swaps, write-up review
+- **Mentorship from experienced hunters** — always learning, always asking
 
-> *Guided by faith. Driven by curiosity. Built by discipline.*
+> *Disciplined in the lab. Relentless in scope.*
 
 <div align="center">
 
@@ -326,6 +297,6 @@ I write about ZK mathematics, proof systems, circuit design, and EVM security. N
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0052,50:1a0533,100:0d0d0d&height=160&section=footer&text=The%20proof%20exists.%20The%20secret%20doesn't.&fontSize=22&fontColor=c77dff&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003b00,50:002b00,100:0d0d0d&height=160&section=footer&text=Every%20app%20has%20a%20flaw.%20I%20find%20it%20first.&fontSize=22&fontColor=39ff14&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>
